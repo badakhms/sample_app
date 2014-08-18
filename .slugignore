@@ -5,3 +5,5 @@
 /lib
 /script
 /features
+/cucumber.yml
+/development.sqlite3
